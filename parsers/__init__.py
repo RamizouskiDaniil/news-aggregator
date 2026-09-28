@@ -1,0 +1,1 @@
+from .XML_parser import parse_rss

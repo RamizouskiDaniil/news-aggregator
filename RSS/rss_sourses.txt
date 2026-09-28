@@ -1,0 +1,3 @@
+HackerNews | https://news.ycombinator.com/rss
+BBC | https://feeds.bbci.co.uk/news/rss.xml
+Autosport F1 | https://www.autosport.com/rss/f1/news/
